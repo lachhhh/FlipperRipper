@@ -1,0 +1,14 @@
+REM DESCRIPTION: this script was made for educationial porpuses and only works on chromebook!
+REM DESCRIPTION: This script was made by Levi Merrick and was published by @lach#4305
+DELAY 500
+HOLD CTRL
+DELAY 500
+HOLD SHIFT
+DELAY 500
+STRING q
+DELAY 500
+STRING q
+DELAY 500
+RELEASE SHIFT
+DELAY 500
+RELEASE CTRL
